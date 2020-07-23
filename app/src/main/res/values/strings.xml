@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Know Your Facts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="page1">1st page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="page2">2nd Page</string>
+
+</resources>
